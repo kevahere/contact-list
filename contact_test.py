@@ -51,7 +51,7 @@ class TestContact(unittest.TestCase):
         test_contact = Contact("Test", "User", "123456", "test@user.com")
         test_contact.save_contact()
 
-        contact_exists = contact_exists("123456")
+        contact_exists = Contact.contact_exists("123456")
         self.assertTrue(contact_exists)
 
 
