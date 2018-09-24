@@ -54,6 +54,13 @@ class TestContact(unittest.TestCase):
         contact_exists = Contact.contact_exists("123456")
         self.assertTrue(contact_exists)
 
+    def test_display_all_contacts(self):
+        """
+        Returns a list of all added contacts
+        :return:
+        """
+        self.assertEqual(Contact.display_contacts(),Contact.contact_list)
+
 
 
 
