@@ -19,4 +19,22 @@ class Contact:
         """
         Contact.contact_list.append(self)
 
+    def delete_contact(self):
+        """
+        Deleting contacts
+        :return:
+        """
+        Contact.contact_list.remove(self)
+
+    @classmethod
+    def find_by_number(cls,number):
+        """
+        takes in a number and returns a  contact matching that number
+        :param number:
+        :return:
+        """
+        for contact in cls.contact_list:
+            if contact.number == number:
+                return contact
+
 

@@ -31,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1053" />
+          <entry key="py" value="1413" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1053" />
+          <entry key="Python" value="1413" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -44,28 +44,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="363">
+              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
               <folding>
-                <marker date="1537776555903" expanded="true" signature="14:19" ph="..." />
-                <marker date="1537776555903" expanded="true" signature="155:165" ph="..." />
+                <marker date="1537779298919" expanded="true" signature="14:19" ph="..." />
+                <marker date="1537779298919" expanded="true" signature="155:165" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="218">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1537778201983" expanded="true" signature="82:87" ph="..." />
-                <marker date="1537778201983" expanded="true" signature="711:712" ph="..." />
+                <marker date="1537779063843" expanded="true" signature="82:87" ph="..." />
+                <marker date="1537779063843" expanded="true" signature="711:712" ph="..." />
               </folding>
             </state>
           </provider>
@@ -79,8 +79,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/contact.py" />
         <option value="$PROJECT_DIR$/contact_test.py" />
+        <option value="$PROJECT_DIR$/contact.py" />
       </list>
     </option>
   </component>
@@ -178,7 +178,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3043478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,25 +192,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contact.py">
+    <entry file="file://$PROJECT_DIR$/contact_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="218">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
           <folding>
-            <marker date="1537776555903" expanded="true" signature="14:19" ph="..." />
-            <marker date="1537776555903" expanded="true" signature="155:165" ph="..." />
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1537779063843" expanded="true" signature="82:87" ph="..." />
+            <marker date="1537779063843" expanded="true" signature="711:712" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact_test.py">
+    <entry file="file://$PROJECT_DIR$/contact.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state relative-caret-position="363">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1537778201983" expanded="true" signature="82:87" ph="..." />
-            <marker date="1537778201983" expanded="true" signature="711:712" ph="..." />
+            <marker date="1537779298919" expanded="true" signature="14:19" ph="..." />
+            <marker date="1537779298919" expanded="true" signature="155:165" ph="..." />
           </folding>
         </state>
       </provider>
