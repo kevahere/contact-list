@@ -1,3 +1,4 @@
+import pyperclip
 class Contact:
     """
     Class that generates new class of contact
@@ -52,3 +53,10 @@ class Contact:
         :return:
         '''
         return cls.contact_list
+
+    @classmethod
+    def copy_email(cls,number):
+        contact_found = Contact.find_by_number(number)
+        pyperclip.copy(contact_found.email)
+
+
