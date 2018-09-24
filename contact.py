@@ -12,4 +12,11 @@ class Contact:
         self.number = number
         self.email = email
 
+    def save_contact(self):
+        """
+        Saves new contacts
+        :return:
+        """
+        Contact.contact_list.append(self)
+
 
